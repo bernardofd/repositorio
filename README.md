@@ -1,4 +1,4 @@
-empty-repo
+Repositório
 ==========
 
-Repo created just for educational purpose.
+Este repositório está vazio.
